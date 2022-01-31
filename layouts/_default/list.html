@@ -1,0 +1,58 @@
+{{ define "main"}}
+{{$check := .URL}}
+{{$authorsurl := "/author/"}}
+
+  {{ if (eq $authorsurl $check)}}
+
+    <h2 style="text-align: center;">Journalist</h2>
+    
+    {{.Content }}
+    {{ range .Pages }}
+    <ul>
+      <li><a href="{{.URL}}">{{.Title}}</a></li>
+    </ul>
+    
+    {{end}}
+  {{else}}
+  {{ $aboutus := "Who are we?"}}
+  {{ $Authors := "Authors"}}
+    <h1>Home Page</h1>
+    <h2>Articles:</h2>
+    {{.Content }}
+    
+    {{ range .Pages }}
+    {{ $check := .Title}}
+    {{ $img := .Name}}
+    
+      {{ if (eq $aboutus $check)}}
+          
+      {{else if (eq $Authors $check)}}
+
+      {{else}}
+      <div style="margin:10px; padding:10px; ">
+        
+      
+      
+        <div style="font-size:20px;">
+            <h3  style="font-style:italic">{{.Title}}</h3>
+            
+        </div>
+        
+        <div style="color:grey; font-size:16px;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+        <div style="color:rgb(0, 0, 0); font-size:18px;">{{ if .Params.moods }}<strong>topic:</strong> {{range .Params.moods}}{{ . }}</a> {{end}}{{end}}</div>
+        <img src="img\{{ $img }}.jpg" style="float:right;max-width:200;max-height:200px;padding-right: 15px;padding-top: 10px"/>
+        <div style="color:rgb(52, 77, 187); font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}{{ . }}</a> {{end}}{{end}}</div>
+        
+        
+        
+        <p style="font-size:20px;font-family:Blackletter  ;">{{.Summary}}</p>
+        <a href="{{.URL}}" style="font-size:18px">read more</a>
+        
+      </div>
+      {{end}}
+      
+      
+        
+    {{end}}
+  {{end}}
+{{end}}
