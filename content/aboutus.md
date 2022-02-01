@@ -7,7 +7,7 @@ We are the Young Observers a non-profit youth oirganisation, based in Glasgow. W
 And we are looking for young journalist!
 
 
-If you are interested and are under 21 then please email us at ...
+If you are interested and are under 21 then please email us at theyoungobserverscontact@gmail.com
 
 
 If you have any issues, want to report bugs or want to improve the website feel free to email

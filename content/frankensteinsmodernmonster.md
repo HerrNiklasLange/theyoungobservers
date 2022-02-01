@@ -1,8 +1,9 @@
 ---
-title: "Frankensteins-modern-monster"
+title: "Frankensteins-Modern-Monster"
 author: "Niklas Lange"
 date: 2022-01-23T1:51:10-04:00
 categories: ["opinion"]
+moods: ["Why we need a Philosophy on how we use technology"]
 ---
 
 

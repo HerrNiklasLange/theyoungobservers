@@ -1,7 +1,7 @@
 ---
 title: "Lily Cornell "
 ---
-## Niklas Lange:
+## Lily Cornell:
 * Place of Birth    : Glasgow Scotland
 * Nationality       : British/Australian
 * Age               : 16

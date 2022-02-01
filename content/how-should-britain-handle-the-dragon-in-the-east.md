@@ -1,5 +1,5 @@
 ---
-title: "How-should-britain-handle-the-dragon-in-the-east"
+title: "How-Should-Britain-Handle-the-Dragon-In-The-East"
 author: "Lily Cornell"
 date: 2022-01-30T1:51:10-04:00
 categories: ["politics"]
