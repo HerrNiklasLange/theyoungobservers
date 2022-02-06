@@ -5,7 +5,13 @@ date: 2022-01-30T1:51:10-04:00
 categories: ["politics"]
 moods: ["Should Britain cut ties with China?"]
 ---
-![image](../img/WhatToDoAboutTheDragonInTheEast/1.png)
+<style>
+    image{
+    max-width:100%;
+    height:auto;
+}
+</style>
+<imgage>![image](../img/WhatToDoAboutTheDragonInTheEast/1.png)</imgage>
 
 China has one of the worst human rights records in the world.  More than a million of its Uighur Muslims are held in‘re-education’ camps. There are 1,438 documented political prisoners, though Amnesty International believes there are very many more.  China is one of the world’s most enthusiastic users of the death penalty - 24, 466 people were executed in 2014 alone. It is believed that the state harvests the organs of executed prisoners.  International monitors report that there are more than 150 different torture techniques used routinely within Chinese prisons. Despite the ending of the ‘one child’ policy, women are still being forcibly sterilised.  All of these abuses are widely known by the international community. So,  has the United Kingdom, the world’s oldest continuous democracy, a nation rightly proud of its freedom, rule of law and support for human rights, allowed itself to become too dependent on the China?  
 
