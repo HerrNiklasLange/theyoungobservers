@@ -1,15 +1,19 @@
 ---
-title: "Frankensteins-Modern-Monster"
+title: "Frankensteins Modern Monster"
 author: "Niklas Lange"
 date: 2022-01-23T1:51:10-04:00
 categories: ["opinion"]
 moods: ["Why we need a Philosophy on how we use technology"]
+tags: ["Frankensteins-Modern-Monster"]
 ---
 
 
 “Nothing is so painful to the human mind as a great and sudden change.”
 ― Mary Wollstonecraft Shelley, Frankenstein.
-![image](../img/Frankensteins-modern-monster.jpg)
+
+
+![image](../img/frankensteinsmodernmonster/1.jpg)
+
 
 The classic tale of Frankenstein's monster is a tale we heard again and again. Although the story is fiction, there is a new monster, but with the devilish twist: it tricked us thinking it is not real.
 This story begins in a time of turbulence and change: the civil rights movement, the Vietnam war and the assassination of    J.F.K come to mind when thinking of the sixties. But in a small lab in MIT, a man comes up with an idea that would change life forever as we know it. The internet. MIT computer scientist J.C.R. Licklider dreams up of a global computer network. A decade later the first email has been sent. 1990, the world wide web is born. In 1995, Microsoft launches windows95, becoming the fixture for all the computers around the world. And now, with nearly everyone owning a small annoying computer in their pockets, we cannot escape it. But has this new monster of this era made us better off?

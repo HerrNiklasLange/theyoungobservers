@@ -5,29 +5,35 @@
 {{$Jamie := "/author/jamie-calder/"}}
 
 {{ if (eq $Niklas $check)}}
-<div style="font-size:18px;;text-align: center;padding:50px;font-family:Blackletter  ;">{{.Content}}</div>
-<h3 style="text-align: center;">Articles:</h3>
-<div style=" margin:10px; padding:10px; text-align: center;">
+<div style="font-size:18px;padding:50px;font-family:Blackletter;text-align: center;">{{.Content}}</div>
+<h3 >Articles:</h3>
+<div style=" margin:10px; padding:10px">
     <div style="font-size:20px;">
-        <a href ="../../frankensteinsmodernmonster"style="font-style:italic">Frankenstein's Modern Monster</a>
+        <a href ="../../frankensteins-modern-monster"style="font-style:italic">Frankenstein's Modern Monster</a>
     </div>
     <div style="color:grey; font-size:16px;">Sunday, Jan 23, 2022</div>
     <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
   </div>
 {{else if (eq $Lily $check)}}
-<div style="font-size:18px;;text-align: center;padding:50px;font-family:Blackletter  ;">{{.Content}}</div>
-<h3 style="text-align: center;">Articles:</h3>
-<div style=" margin:10px; padding:10px; text-align: center;">
+<div style="font-size:18px;padding:50px;font-family:Blackletter;text-align: center">{{.Content}}</div>
+<h3 >Articles:</h3>
+<div style=" margin:10px; padding:10px">
     <div style="font-size:20px;">
-        <a href ="../../How-should-britain-handle-the-dragon-in-the-east"style="font-style:italic">How should Britain Handle the Dragon in the East?</a>
+        <a href ="../../what-to-do-about-the-dragon-in-the-east"style="font-style:italic">What To Do About The Dragon In The East?</a>
     </div>
     <div style="color:grey; font-size:16px;">Sunday, Jan 23, 2022</div>
     <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
   </div>
 {{else if (eq $Jamie $check)}}
-<div style="font-size:18px;;text-align: center;padding:50px;font-family:Blackletter  ;">{{.Content}}</div>
-<h3 style="text-align: center;">Articles:</h3>
-<div style=" margin:10px; padding:10px; text-align: center;">
+<div style="font-size:18px;padding:50px;font-family:Blackletter;text-align: center">{{.Content}}</div>
+<h3 >Articles:</h3>
+<div style=" margin:10px; padding:10px">
+  <div style="font-size:20px;">
+      <a href ="../../cop26-effectiveness"style="font-style:italic">COP26 – Scared of Commitment?</a>
+  </div>
+  <div style="color:grey; font-size:16px;">Sunday, Jan 23, 2022</div>
+  <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+</div>
 {{else}}
 {{ $aboutus := "Who are we?"}}
     <div style="margin:25px;">
@@ -37,7 +43,7 @@
     <div style="font-size:25px;text-align: center;padding:50px;font-family:Blackletter  ;">{{.Content}}</div>
     {{else}}
     <div style="color:grey; font-size:16px;text-align: center;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
-    <div style="color:rgb(0, 0, 0); font-size:18px;text-align: center;">{{ if .Params.moods }}<strong></strong> {{range .Params.moods}}{{ . }}</a> {{end}}{{end}}</div>
+    <div style="color:rgb(0, 0, 0); font-size:22px;text-align: center;">{{ if .Params.moods }}<strong></strong> {{range .Params.moods}}{{ . }}</a> {{end}}{{end}}</div>
     <div style="color:grey; font-size:16px;text-align: center;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div>
     <div style="font-size:18px;text-align: center;padding:90px;font-family:Blackletter  ;">{{.Content}}</div>
     </div>

@@ -1,10 +1,12 @@
 ---
-title: "How-Should-Britain-Handle-the-Dragon-In-The-East"
+title: "What To Do About The Dragon In The East?"
 author: "Lily Cornell"
 date: 2022-01-30T1:51:10-04:00
 categories: ["politics"]
 moods: ["Should Britain cut ties with China?"]
 ---
+![image](../img/WhatToDoAboutTheDragonInTheEast/1.png)
+
 China has one of the worst human rights records in the world.  More than a million of its Uighur Muslims are held in‘re-education’ camps. There are 1,438 documented political prisoners, though Amnesty International believes there are very many more.  China is one of the world’s most enthusiastic users of the death penalty - 24, 466 people were executed in 2014 alone. It is believed that the state harvests the organs of executed prisoners.  International monitors report that there are more than 150 different torture techniques used routinely within Chinese prisons. Despite the ending of the ‘one child’ policy, women are still being forcibly sterilised.  All of these abuses are widely known by the international community. So,  has the United Kingdom, the world’s oldest continuous democracy, a nation rightly proud of its freedom, rule of law and support for human rights, allowed itself to become too dependent on the China?  
 
 Quite simply, it’s money.  China is the second largest source of non-EU imports to the UK just behind the United States.  This figure is growing year on year.  China produces almost all of the consumer items we take for granted. From clothes to electronics, to electrical goods and furniture. We can’t get enough cheap stuff from China.  People might complain about the demise of this country’s manufacturing industry and claim they want to buy British, but the fact is that Chinese goods are cheap. Almost everything we use in our day-to-day lives is manufactured in China, but not always ethically, and it is all because we are greedy.

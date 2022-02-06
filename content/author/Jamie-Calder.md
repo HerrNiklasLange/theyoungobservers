@@ -1,25 +1,21 @@
 ---
-title: "Lily-Cornell "
+title: "Jamie-Calder "
 ---
-## Lily Cornell:
-
-![image](../../img/Lily-Cornell.png)
-
+## Jamie Calder:
 Place of Birth    : Glasgow Scotland
 
-Nationality       : British/Australian
+Nationality       : Scottish
 
 Age               : 16
 
 Current Location  : Glasgow Scotland
 
 
-
 ### About
 
 
 
-#### Lily is the co-founder of the young observers and a active journalist
+#### Jamie is the co-founder of the young observers and a active journalist
 
 
 
