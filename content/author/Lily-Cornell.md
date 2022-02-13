@@ -1,5 +1,5 @@
 ---
-title: "Lily-Cornell "
+title: "Lily Cornell "
 ---
 ## Lily Cornell:
 

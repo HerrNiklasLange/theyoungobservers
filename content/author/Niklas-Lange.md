@@ -1,5 +1,5 @@
 ---
-title: "Niklas-Lange"
+title: "Niklas Lange"
 ---
 ## Niklas Lange:
 ![image](../../img/Niklas-Lange.png)

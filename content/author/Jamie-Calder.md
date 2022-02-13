@@ -1,7 +1,10 @@
 ---
-title: "Jamie-Calder "
+title: "Jamie Calder "
 ---
 ## Jamie Calder:
+
+![image](../../img/Jamie-Calder.png)
+
 Place of Birth    : Glasgow Scotland
 
 Nationality       : Scottish
@@ -19,4 +22,4 @@ Current Location  : Glasgow Scotland
 
 
 
-Hi I’m Lily, and welcome to The Young Observer. I hope to write pieces that cover a range of issues and topics that are interesting to read. As you will probably be able to tell from one of my photos, I am someone who loves to cook, and loves to go to restaurants even more. Happy reading!
+Hey, I’m Jamie and Welcome to our website! I aspire to work in journalism and in the near future will begin studying politics at university, so you can expect plenty of articles from me. Enjoy!

@@ -12,7 +12,7 @@ tags: ["Frankensteins-Modern-Monster"]
 ― Mary Wollstonecraft Shelley, Frankenstein.
 
 
-![image](../img/frankensteinsmodernmonster/1.jpg)
+![image](../img/article/frankensteinsmodernmonster/1.jpg)
 
 
 The classic tale of Frankenstein's monster is a tale we heard again and again. Although the story is fiction, there is a new monster, but with the devilish twist: it tricked us thinking it is not real.

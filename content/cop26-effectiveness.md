@@ -5,7 +5,7 @@ date: 2022-02-06T1:51:10-04:00
 categories: ["environment"]
 moods: ["How world leaders let down our planet"]
 ---
-![image](../img/COP26-effectiveness/1.png)
+![image](../img/article/COP26-effectiveness/1.png)
 
 ## A Fragile Alliance
 The cracks are already beginning to appear in the ‘Glasgow Climate Pact’ and with the climate crisis looming those cracks may prove to be more powerful than the Pact itself. While the promises made would, in theory, keep global warming below 2 degrees (many estimates hone in on the 1.8°C mark) and keep the goal of 1.5°C alive, that could be very different in practice, as the COP26 president, Alok Sharma, said; “at the moment they are just words on a page”.
@@ -16,7 +16,7 @@ The pact has been split into four categories: Mitigation, Adaptation & Loss and 
 
 It has been by far the most controversial section of the conference, with debates about both the phrasing and demands of the Pact itself dragging on for hours, past the expected end of the conference, eventually these long and arduous negotiations ended in tears for the COP president, Alok Sharma, and a victory for the coal giants of India and China. They place 1st (China) and 2nd (India) on the coal production charts and are therefore topping the table for greenhouse gas (GHG) emissions too with China accounting for 30% of GHG emissions worldwide. Despite coming close to an agreement, the Glasgow Pact was forced to “water down” its phrasing for the demands on cutting coal consumption from “phase out” to “phase down” due to pressure from the two nations – this small change may seem pointless and inconsequential but in reality it severely limits the effect of this demand and allows China and India to continue their heavy reliance on coal without going against the agreement, they aren’t required to get rid of their dependency on coal and the pledge they made to reduce coal usage will take years to implement and many more to complete. In fact Chinese coal consumption is likely to rise for the next few years as the Chinese government has only pledged to start cutting the industry post-2025, allowing for new coal developments and expansions to go ahead in the meantime including the new Shanghaimiao plant, soon to be the largest coal power plant in China which when completed will produce 4,000 Megawatts of power and will spray GHG emissions into the atmosphere only adding to the problem of coal power in the developing world. The watering down of this agreement has allowed China to retain and in fact increase their coal consumption, which is dangerously against the entire idea, promises and hopes of COP26 and has led to the biggest polluter (more than double the CO2 output than the 2nd place USA) on Earth to continue favouring its own development over the safety and protection of the Earth as a whole. With no accountability, enforcement or even real, strict agreements about coal consumption it can be predicted with near certainty that the conference did not do enough, failing to pin down one of the largest polluting industries is enough to make the 1.5°C target unreachable and as of now the fate of the coal industry and the emissions it creates is left, once again, to the leaders of coal-dependant and ever-growing nations. The fate of COP26 will rest, frustratingly, in China, post-2025. 
 
-![image](../img/COP26-effectiveness/2.JPG)
+![image](../img/article/COP26-effectiveness/2.JPG)
 
 ###### A coal power plant in China – one of over 1,000
 
@@ -28,7 +28,7 @@ With the fate of coal up in the air but looking increasingly negative we must lo
 
 In total 137 world leaders “committed to halt and reverse forest loss and land degradation by 2030”, one of nations that signed was a delegation from Brazil, home the largest forest on Earth, the Amazon. Brazil has pledged to end illegal deforestation in the nation, which accounts for an estimated 90% of all deforestation in the country, which would allow the “Earth’s Lung” to recover from overlogging, forest fires and clearing, among other forms of deforestation, and therefore could have a huge impact on keeping CO2 levels on Earth down by absorbing billions of metric tonnes of the gas.
 
-![image](../img/COP26-effectiveness/3.JPG)
+![image](../img/article/COP26-effectiveness/3.JPG)
 
 ###### Deforestation and clearing of the Amazon in Brazil
 
