@@ -4,7 +4,8 @@ author: "Euan Wilson"
 date: 2022-02-13T1:51:10-04:00
 categories: ["economy"]
 ---
-![image](../img/article/Bitcoins-not-so-untachable/1.jpg)
+
+![image](../../img/article/Bitcoins-not-so-untouchable/1.jpg)
 
 For many decades, computers progressively moved away from their bulky prototypes, adapting in favour of users being able to intuitively make their way around an operating system without needing a PhD in computer science and 10 years experience. But, whilst the general population were revelling in new technology such as the first iPhone and other hand-held devices, a programmer (or group of programmers) under the pseudonym Satoshi Nakamoto set off the chain reaction that led to the arrest of the rapper who called herself 'Genghis Khan with more pizzazz'.  
 
