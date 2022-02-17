@@ -56,7 +56,7 @@
     <div style="color:grey; font-size:16px;text-align: center;">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
     <div style="color:rgb(0, 0, 0); font-size:22px;text-align: center;">{{ if .Params.moods }}<strong></strong> {{range .Params.moods}}{{ . }}</a> {{end}}{{end}}</div>
     <div style="color:grey; font-size:16px;text-align: center;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div>
-    <div style="font-size:18px;text-align: center;padding:90px;font-family:Blackletter  ;">{{.Content}}</div>
+    <div style="font-size:18px;text-align: center;padding:auto;font-family:Blackletter  ;">{{.Content}}</div>
     </div>
     
     {{end}}
