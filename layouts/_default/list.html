@@ -2,14 +2,20 @@
 {{$check := .URL}}
 {{$authorsurl := "/author/"}}
 {{ if (eq $authorsurl $check)}}
+<h2 style="margin:10px; padding: 10px">Journalist</h2>
+{{.Content }}
 
-  <h2 style="text-align: center;">Journalist</h2>
+
+{{range .Pages}}
+  <div class="card" style="width: 18rem; margin:20px; padding: 20px"class="center">
+    <img class="card-img-top" src=" ../img/{{ .Title}}.png" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{.Title}}</h5>
+      <p class="card-text"></p>
+      <a href=" {{.URL}}" class="btn btn-primary">About</a>
+    </div>
+  </div>
   
-  {{.Content }}
-  {{ range .Pages }}
-  <ul>
-    <li><a href="{{.URL}}">{{.Title}}</a></li>
-  </ul>
 
     {{end}}
   {{else}}

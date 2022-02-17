@@ -1,5 +1,5 @@
 ---
-title: "Jamie Calder "
+title: "Jamie Calder"
 ---
 ## Jamie Calder:
 

@@ -2,7 +2,7 @@
 title: "Niklas Lange"
 ---
 ## Niklas Lange:
-![image](../../img/Niklas-Lange.png)
+![image](../../img/Niklas Lange.png)
 
 Place of Birth    : Erfurt Germany
 

@@ -3,7 +3,7 @@ title: "Euan Wilson"
 ---
 ## Euan Wilson:
 
-![image](../../img/Euan-Wilson.png)
+![image](../../img/authors/Euan-Wilson.png)
 
 Place of birth: Worcester, England
 
