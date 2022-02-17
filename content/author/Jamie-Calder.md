@@ -3,7 +3,7 @@ title: "Jamie Calder"
 ---
 ## Jamie Calder:
 
-![image](../../img/Jamie-Calder.png)
+![image](../../img/authors/Jamie-Calder.png)
 
 Place of Birth    : Glasgow Scotland
 

@@ -3,7 +3,7 @@ title: "Lily Cornell"
 ---
 ## Lily Cornell:
 
-![image](../../img/Lily-Cornell.png)
+![image](../../img/authors/Lily-Cornell.png)
 
 Place of Birth    : Glasgow Scotland
 
