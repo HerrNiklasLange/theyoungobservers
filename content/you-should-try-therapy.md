@@ -18,10 +18,19 @@ Depression is a heavy subject, I’m sure we’ve all had experiences seeing or 
 
 
 Unfortunately, in the recent years eating disorders have become more and more common. With this increased commonality therapists have become well versed and familiar with these various disorders. The therapists help by establishing a healthy eating and drinking routine tailored to that person needs and life at home. Everyone has a routine in the morning with lots of habits, not all of these habits can be healthy – procrastination as a big one – and these new routines can help establish healthy habits. Input from occupational therapists makes it easier for the person to live their life and do daily everyday tasks without being stressed or anxious. 
+
 I’ve recently asked someone recovering from anorexia how they felt after therapy sessions :
 “ when I came out of a therapy session, I felt a relief because I felt more understood” they also followed up with  
+
 “lots of people say they feel this way after therapy, or from the input of other mental health services. It really shows the positive impact therapy has on people”.
+
 For people curious how it works: The therapists working with people can provide further help if needed from eating disorder clinics with specialised therapists. These therapists understand even more and can track the persons physical state , this is very important to do as some people may need to go to hospital if they are in danger . By having specialised therapists this makes sure the person in need of help Is not in any danger and, supports the person even in rehab. Therapy can provide constant care for the person , if they are an inpatient or an outpatient . This means that even when people are in a mental hospital, they are still getting therapy sessions to help with their thoughts while their physical state is getting taken care of. 
+
 Support hotlines can help a person with many different issues and are vital in keeping a person safe and secure. These hotlines can be called, texted or emailed at any time of the day. The services are equipped with trained therapists to help the person and calm them down for the most extreme cases. For example, someone could be stressed out about a family problem or a relationship problem and the therapists at the other end will know exactly what to say and do to benefit the person.
+
 “texts and calls are completely confidential unless the person is a harm to themselves or others”- this opens up a lot of other doorways for people as many especially boys are embarrassed about their issues but won’t go to therapy about it, it’s a great first step. With the help of hotlines, thankfully, suicide rates decreased. Help hotlines can help you with a wide range of issues
 If you are struggling in any way or just want to see the benefits of therapy, give it try. Therapists are here to benefit you. They have a wide range of knowledge and contacts to help you with any problem. From something as severe as an eating disorder to just giving you a comfortable place to vent about your day. They’ll comfort you and give you a fresh perspective on your situation. Therapy will give you life long techniques that will help you for every type of situation. There’s always something to gain from therapy, you should try going at least once.
+
+
+https://www.nhs.uk/every-mind-matters/mental-health-issues/anxiety/
+https://time.com/5590344/youth-suicide-rates/
