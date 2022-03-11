@@ -28,7 +28,14 @@
     </div>
     <div style="color:grey; font-size:16px;">Sunday, Jan 23, 2022</div>
     <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+
+    <div style="font-size:20px;">
+      <a href ="../../is-all-surrogacy-exploitation"style="font-style:italic">Is all surrogacy ecploitation?</a>
   </div>
+  <div style="color:grey; font-size:16px;">Sunday, Mar 06, 2022</div>
+  <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+  </div>
+  
 {{else if (eq $Jamie $check)}}
 <div style="font-size:18px;padding:50px;font-family:Blackletter;text-align: center">{{.Content}}</div>
 <h3 >Articles:</h3>

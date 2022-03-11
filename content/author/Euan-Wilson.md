@@ -18,4 +18,4 @@ Current location: Glasgow, Scotland
 
 
 
-#### Euan enjoys listening to music, watching Formula 1 and gaming. He is also a writer for The Young Observer
+#### Euan is an active journalist of the Young Observers
