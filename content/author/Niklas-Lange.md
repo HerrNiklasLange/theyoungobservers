@@ -10,7 +10,6 @@ Nationality       : German/Scottish
 
 Age               : 17
 
-Current Location: Glasgow Scotland
 
 
 ### About
