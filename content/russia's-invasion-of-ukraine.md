@@ -1,7 +1,7 @@
 ---
 title: "David vs Goliath"
 author: "Euan Wilson"
-date: 2022-05-1T1:51:10-04:00
+date: 2022-05-01T1:51:10-04:00
 categories: ["politics"]
 moods: ["Russia's Invasion of Ukraine"]
 ---
