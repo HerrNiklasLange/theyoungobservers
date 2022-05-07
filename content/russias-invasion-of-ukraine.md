@@ -5,7 +5,7 @@ date: 2022-05-01T1:51:10-04:00
 categories: ["politics"]
 moods: ["Russia's Invasion of Ukraine"]
 ---
-![image](../img/article/russia's-invasion-of-ukraine/1.jpg)
+![image](../img/article/russias-invasion-of-ukraine/1.jpg)
 
 Many elderly members of our society will still remember the shocking events of World War 2, some younger people too will have fought through the horrific events in Afghanistan and Iraq, but Russia’s invasion of Ukraine is in a different era where combat has changed dramatically. This isn’t just a war of bullets and blood, but also of information and words.
 
