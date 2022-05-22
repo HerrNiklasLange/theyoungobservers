@@ -1,6 +1,6 @@
 {{ define "main"}}
 {{$check := .Permalink}}
-{{$authorsurl := "https://www.theyoungobservers.com/author/"}}
+{{$authorsurl := "http://theyoungobservers.com/author/"}}
 {{ if (eq $authorsurl $check)}}
 <h2 style="margin:10px; padding: 10px">Journalist</h2>
 {{.Content }}
@@ -22,7 +22,6 @@
   {{ $Authors := "Authors"}}
   <div style="margin:10px; padding:10px; ">
     <h1>Home Page</h1>
-    {{$check}}
   </div>
   <div style="margin:10px; padding:10px; ">
     <h2>Articles:</h2>
