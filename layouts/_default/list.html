@@ -1,10 +1,9 @@
 {{ define "main"}}
 {{$check := .Permalink}}
-{{$authorsurl := "/author/"}}
+{{$authorsurl := "http://theyoungobservers/author/"}}
 {{ if (eq $authorsurl $check)}}
 <h2 style="margin:10px; padding: 10px">Journalist</h2>
 {{.Content }}
-
 
 {{range .Paginator.Pages}}
   <div class="card" style="width: 18rem; margin:20px; padding: 20px"class="center">
