@@ -22,11 +22,11 @@
   {{ $Authors := "Authors"}}
   <div style="margin:10px; padding:10px; ">
     <h1>Home Page</h1>
+    {{$check}}
   </div>
   <div style="margin:10px; padding:10px; ">
     <h2>Articles:</h2>
   </div>
-  {{.Permalink}}
     {{.Content }}
     
     {{ range .Pages }}
