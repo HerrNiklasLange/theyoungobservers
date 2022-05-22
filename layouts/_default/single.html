@@ -1,5 +1,5 @@
 {{ define "main"}}
-{{$check := .URL}}
+{{$check := .Permalink }}
 {{$Niklas := "/author/niklas-lange/"}}
 {{$Lily := "/author/lily-cornell/"}}
 {{$Jamie := "/author/jamie-calder/"}}
@@ -58,6 +58,11 @@
     <a href ="../../food-glorious-food"style="font-style:italic">Food Glorious Food</a>
     </div>
 <div style="color:grey; font-size:16px;">Sunday, Mar 20, 2022</div>
+<div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+<div style="font-size:20px;">
+    <a href ="../../children-should-listen-to-music-in-school"style="font-style:italic">Children should listen to music in school</a>
+    </div>
+<div style="color:grey; font-size:16px;">Sunday, May 22, 2022</div>
 <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
 </div>
 {{else if (eq $Euan $check)}}
