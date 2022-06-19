@@ -60,6 +60,12 @@
 <div style="color:grey; font-size:16px;">Sunday, Mar 20, 2022</div>
 <div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
 </div>
+<div style="font-size:20px;">
+    <a href ="../../not-always-a-divided-city"style="font-style:italic">Not always a divided city</a>
+    </div>
+<div style="color:grey; font-size:16px;">Sunday, May 29, 2022</div>
+<div style="color:grey; font-size:16px;">{{ if .Params.categories }}<strong>Categories:</strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}}</div>
+</div>
 {{else if (eq $Euan $check)}}
 <div style="font-size:18px;padding:50px;font-family:Blackletter;text-align: center;">{{.Content}}</div>
 <h3 >Articles:</h3>
