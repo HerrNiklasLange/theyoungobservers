@@ -2,7 +2,7 @@
 title: "You Should Try Therapy and Here’s Why"
 author: "Connor Hutcheson"
 date: 2022-02-20T1:51:10-04:00
-categories: ["Opinion"]
+categories: ["opinion"]
 
 ---
 ![image](../../img/article/you-should-try-therapy/1.jpg)
